@@ -1,0 +1,31 @@
+.TypingGame {
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    display: flex;
+    gap: 50px;
+  }
+  
+  .TypingGame-header {
+    font-size: 2em;
+    font-weight: 500;
+    
+  }
+  
+  .TypingGame-text {
+    font-size: 1.5em;
+  }
+
+  .TypingGame-input {
+    padding: 20px;
+    all: unset;
+    background-color: #09d3ac;
+    line-height: 40px;
+    color: #282c34;
+    font-weight: 500;
+  }
