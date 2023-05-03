@@ -1,0 +1,16 @@
+.NoPage {
+  text-align: center;
+  background-color: #282c34;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  display: flex;
+  min-height: 100vh;
+}
+
+.NoPage-header {
+  font-size: 6em;
+  font-weight: 500;
+  font-family: 'Nabla', cursive;
+}
