@@ -1,0 +1,70 @@
+.TypingGame {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    /* gap: 50px; */
+  }
+  
+  .TypingGame-header {
+    font-size: 3em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .TG-header {
+    font-size: 2em;
+    font-weight: 300;
+    font-family: 'Nabla', cursive;
+  }
+
+  img {
+    width: 200px;
+  }
+
+  /* .TypingGame-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  } */
+  
+  .TypingGame-word-container {
+    border: 5px solid yellow;
+    border-radius: 15px;
+    padding: 5px 0px;
+    color: yellow;
+  }
+
+  .TypingGame-text {
+    font-size: 2.5em;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+    /* text-transform: uppercase; */
+  }
+
+  .TypingGame-input {
+    all: unset;
+    /* background-color: #09d3ac; */
+    font-size: 2.5em;
+    font-family: 'Orbitron', sans-serif;
+    line-height: 40px;
+    color: whitesmoke;
+    font-weight: 500;
+    width: 10ch;
+  }
+
+  .TypingGame-stats {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    font-size: 2em;
+  }

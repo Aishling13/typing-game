@@ -1,4 +1,5 @@
-import '../App.css';
+import '../Home/App.css';
+import {Link} from "react-router-dom";
 
 function Homepage() {
   return (
@@ -15,6 +16,17 @@ function Homepage() {
       - maybe a cool background/h1 heading (nice to have later on)
       
       */}
+      <main>
+        <Link 
+          className="Homepage-link" 
+          to="/typing-game"
+        >
+          ENTER
+        </Link>
+      </main>
+      <div className="Homepage-text">
+        made by coco &#x2665;
+      </div>
     </div>
   );
 }
