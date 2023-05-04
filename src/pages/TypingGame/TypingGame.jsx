@@ -83,9 +83,6 @@ function TypingGame() {
 					Score: {score}
 				</p>
 			</div>
-			
-		{/* </body> */}
-
 		</div>
 	)
 }
