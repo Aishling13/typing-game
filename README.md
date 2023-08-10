@@ -4,8 +4,6 @@ I created a typing game!
 
 To start the react server, run npm start.
 
-![Uploading typing-game.gif…]()
+![typing-game](https://github.com/Aishling13/typing-game/assets/56802540/947a32b7-d45d-4e0a-a0e3-a2a67009c991)
 
-
-https://github.com/Aishling13/typing-game/assets/56802540/713dddf9-4861-45f2-a725-ce6cddc88c22
 
