@@ -4,7 +4,7 @@ A browser-based typing game inspired by *The Typing of the Dead*, created as par
 
 Players type words to score points. This project was a fun way to explore **React hooks**, **state management**, and **conditional rendering**, while improving my understanding of JavaScript event handling and game logic.  
 
-**Tech Stack:** React, Vite, CSS
+**Tech Stack:** React, CSS
 
 **Live Demo:** [Play Typing Game on Vercel](https://typing-game-two-dun.vercel.app/)
 
